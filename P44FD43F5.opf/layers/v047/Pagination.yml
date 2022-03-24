@@ -1,47 +1,52 @@
-id: 05ded4af4b9f467eace4532ce2f5e9f1
+id: 7100e8fbeae64f58ab310e5665cccc11
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  59b76f7877634045b2fef15a5d8305d2:
+  3f2207e00e474489b2216d5989d8475b:
     imgnum: 780
     reference: ''
     span:
       start: 0
-      end: 762
-  6ac53ab90e934d6788652aba11162fe7:
+      end: 757
+    note_ref: a5b242dd76af45639f2ac095464a7b01
+  4d7e9d1c025d40339b510b212e9a4b4c:
     imgnum: 781
     reference: ''
     span:
-      start: 765
-      end: 2200
-  68f12812a2994417ab42cc362cb2cbff:
+      start: 760
+      end: 2194
+    note_ref: a5b242dd76af45639f2ac095464a7b01
+  07561ec49ce04e768e7f2ea73820cc95:
     imgnum: 782
     reference: ''
     span:
-      start: 2203
-      end: 3634
-  65d014e0f6a041748a16a2088e013cd7:
+      start: 2197
+      end: 3627
+    note_ref: a5b242dd76af45639f2ac095464a7b01
+  1561da61ff1a4a2a96fac256b5132b70:
     imgnum: 783
     reference: ''
     span:
-      start: 3637
-      end: 5050
-  8f4a8caa6c1646ce96e0e7edf74e1717:
+      start: 3630
+      end: 5042
+    note_ref: a5b242dd76af45639f2ac095464a7b01
+  e62f1d292a1944fe9457b49e49741c80:
     imgnum: 784
     reference: ''
     span:
-      start: 5053
-      end: 5599
-  418a4b5eea6e4703b6734d0fff2c50df:
+      start: 5045
+      end: 5582
+    note_ref: a5b242dd76af45639f2ac095464a7b01
+  a5b242dd76af45639f2ac095464a7b01:
     imgnum: 785
     reference: ''
     span:
-      start: 5602
-      end: 6149
+      start: 5585
+      end: 5988
 local_ids:
-  59b76f7877634045b2fef15a5d8305d2: 200000
-  6ac53ab90e934d6788652aba11162fe7: 200001
-  68f12812a2994417ab42cc362cb2cbff: 200002
-  65d014e0f6a041748a16a2088e013cd7: 200003
-  8f4a8caa6c1646ce96e0e7edf74e1717: 200004
-  418a4b5eea6e4703b6734d0fff2c50df: 200005
+  3f2207e00e474489b2216d5989d8475b: 200000
+  4d7e9d1c025d40339b510b212e9a4b4c: 200001
+  07561ec49ce04e768e7f2ea73820cc95: 200002
+  1561da61ff1a4a2a96fac256b5132b70: 200003
+  e62f1d292a1944fe9457b49e49741c80: 200004
+  a5b242dd76af45639f2ac095464a7b01: 200005
