@@ -1,52 +1,47 @@
-id: 2d7a08cb3c1a4021af7ee95589b3f2aa
+id: 05ded4af4b9f467eace4532ce2f5e9f1
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  3b3e911b5e9545a4a562350358f7d724:
+  59b76f7877634045b2fef15a5d8305d2:
     imgnum: 780
     reference: ''
     span:
       start: 0
-      end: 764
-    note_ref: 13facbbee1e64347931e0dd6966382c8
-  aebd16162bc348468230345408da07cc:
+      end: 762
+  6ac53ab90e934d6788652aba11162fe7:
     imgnum: 781
     reference: ''
     span:
-      start: 767
-      end: 2204
-    note_ref: 13facbbee1e64347931e0dd6966382c8
-  c3b662f28a8244afbf947f42ff9250f1:
+      start: 765
+      end: 2200
+  68f12812a2994417ab42cc362cb2cbff:
     imgnum: 782
     reference: ''
     span:
-      start: 2207
-      end: 3640
-    note_ref: 13facbbee1e64347931e0dd6966382c8
-  643ffe27eb764015a6d8ed3298a69561:
+      start: 2203
+      end: 3634
+  65d014e0f6a041748a16a2088e013cd7:
     imgnum: 783
     reference: ''
     span:
-      start: 3643
-      end: 5058
-    note_ref: 13facbbee1e64347931e0dd6966382c8
-  7c7f38361d0648348135bcb592a4fd38:
+      start: 3637
+      end: 5050
+  8f4a8caa6c1646ce96e0e7edf74e1717:
     imgnum: 784
     reference: ''
     span:
-      start: 5061
-      end: 5609
-    note_ref: 13facbbee1e64347931e0dd6966382c8
-  13facbbee1e64347931e0dd6966382c8:
+      start: 5053
+      end: 5599
+  418a4b5eea6e4703b6734d0fff2c50df:
     imgnum: 785
     reference: ''
     span:
-      start: 5612
-      end: 6015
+      start: 5602
+      end: 6149
 local_ids:
-  3b3e911b5e9545a4a562350358f7d724: 200000
-  aebd16162bc348468230345408da07cc: 200001
-  c3b662f28a8244afbf947f42ff9250f1: 200002
-  643ffe27eb764015a6d8ed3298a69561: 200003
-  7c7f38361d0648348135bcb592a4fd38: 200004
-  13facbbee1e64347931e0dd6966382c8: 200005
+  59b76f7877634045b2fef15a5d8305d2: 200000
+  6ac53ab90e934d6788652aba11162fe7: 200001
+  68f12812a2994417ab42cc362cb2cbff: 200002
+  65d014e0f6a041748a16a2088e013cd7: 200003
+  8f4a8caa6c1646ce96e0e7edf74e1717: 200004
+  418a4b5eea6e4703b6734d0fff2c50df: 200005
