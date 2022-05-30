@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   03f30d85d2ed497f886b2eab483db2ca:
     parts: {}
+    work_id: N3760
     span:
-    - vol: 47
+    - base: e431
       start: 0
       end: 5947
-    work_id: N3760
